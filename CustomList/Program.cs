@@ -10,8 +10,7 @@ namespace CustomList
     {
         static void Main(string[] args)
         {
-            CustomList custom = new CustomList();
-
+            CList<int> custom = new CList<int>();
         }
     }
 }

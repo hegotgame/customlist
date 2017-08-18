@@ -1,0 +1,9 @@
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\RemoveMethodUnitTests\bin\Debug\RemoveMethodUnitTests.dll
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\RemoveMethodUnitTests\bin\Debug\RemoveMethodUnitTests.pdb
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\RemoveMethodUnitTests\bin\Debug\CustomList.exe
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\RemoveMethodUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\RemoveMethodUnitTests\bin\Debug\CustomList.pdb
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\RemoveMethodUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\RemoveMethodUnitTests\obj\Debug\RemoveMethodUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\RemoveMethodUnitTests\obj\Debug\RemoveMethodUnitTests.dll
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\RemoveMethodUnitTests\obj\Debug\RemoveMethodUnitTests.pdb

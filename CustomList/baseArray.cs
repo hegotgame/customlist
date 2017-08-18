@@ -10,9 +10,17 @@ namespace CustomList
     {
         //properties
             //capacity
-            //count
+            //count*
             //item[int32]
         //methods
+            //override ToString
+            //overload +
+            //overload -
+            //ziptwolists
+            //iterable
+            //remove
+            //add
+            //storevalues
         //explicit interface implementations
         //extension methods
     }

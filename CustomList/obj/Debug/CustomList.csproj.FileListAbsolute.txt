@@ -1,1 +1,6 @@
 C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\CustomList\bin\Debug\CustomList.exe
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\CustomList\bin\Debug\CustomList.pdb
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\CustomList\obj\Debug\CustomList.exe
+C:\Users\jgill\Documents\Visual Studio 2015\Projects\CustomList\CustomList\CustomList\obj\Debug\CustomList.pdb
