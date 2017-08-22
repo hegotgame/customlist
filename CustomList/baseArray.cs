@@ -11,7 +11,7 @@ namespace CustomList
         //properties
             //capacity
             //count*
-            //item[int32]
+            //item
         //methods
             //override ToString
             //overload +
@@ -21,7 +21,7 @@ namespace CustomList
             //remove
             //add
             //storevalues
-        //explicit interface implementations
-        //extension methods
+            //explicit interface implementations
+            //extension methods
     }
 }
